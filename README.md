@@ -9,3 +9,12 @@
 - Q&A (get answer from user input documents, it will use embedding let llm can read data)
 - Evaluation (evaluate it's good or not for your use cases, help you to improve your langchain app)
 - Agents
+
+## Agents
+### IELTS Agent
+- for writing skill
+  - making bot familiar with all history essays
+  - Q&A question for learner and correct the grammatical mistake in learner's answer. And give a recommend answer.
+- for speaking skill
+  - making bot familiar with all history
+  - talking with learner 
