@@ -18,3 +18,10 @@
 - for speaking skill
   - making bot familiar with all history
   - talking with learner 
+
+## RAG (retrieval-augmented generation)
+- document loading
+- document split
+- document embedding and store in vector database
+- retrieval from vector database
+- answer generation 
