@@ -25,3 +25,4 @@
 - document embedding and store in vector database
 - retrieval from vector database
 - answer generation 
+- chat
